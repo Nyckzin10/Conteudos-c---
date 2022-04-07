@@ -1,0 +1,15 @@
+faça um programa que 15 numeros anteriores "positivos"
+e mostre o maior desses numeros
+
+dados de entrada numero inteiro 
+saida de entrada numero inteiro 
+
+
+solução 
+
+1 - inicializar a variavel maior com zero 
+2 - repetir 15 (O comando da repetição para)
+    - ler o numero (No comando leia Scanf)
+    - se o numero > maior >  = numero 
+
+3 exibir o conteudo da variavel (Com comando escreva - printf )
