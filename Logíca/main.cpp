@@ -15,7 +15,7 @@ scanf("%f",¬a2);
 printf("Entre com a nota 3 do aluno: ");
 scanf("%f",¬a3);
 media=(nota1+nota2+nota3)/3
-if (media>=7)
+if(media>=7)
 {
 printf("Aluno APROVADO com média : %.2f",media);
 }
